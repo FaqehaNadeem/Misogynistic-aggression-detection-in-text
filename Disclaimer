@@ -1,0 +1,7 @@
+
+
+As this project involved detecting misogynistic aggression, the dataset used to train and test the model
+contains offensive, inappropriate and some violent language. To show the results of preprocessing and other 
+operations, portions of the dataset are displayed in the Jupyter notebook file as well.
+
+Therefore view the Jupyter notebook file and dataset at your own discretion.
